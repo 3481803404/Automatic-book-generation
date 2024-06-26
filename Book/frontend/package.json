@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "unplugin-auto-import": "^0.17.5",
+    "unplugin-vue-components": "^0.26.0",
+    "vite": "^5.0.11"
+  },
+  "dependencies": {
+    "element-plus": "^2.6.2",
+    "gasp": "^0.0.2",
+    "gsap": "^3.12.5",
+    "vue": "^3.4.21"
+  }
+}
